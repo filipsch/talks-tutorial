@@ -1,0 +1,13 @@
+---
+title: "Exploring data"
+output: html_document
+---
+
+When you start R, `mtcars` is available. 
+
+Let's use `head()` and `tail()`.
+
+```{r, message=TRUE, warning=TRUE}
+head(mtcars)
+tail(mtcars)
+```

@@ -1,0 +1,9 @@
+.Rproj.user
+.Rproj.user/*
+.DS_STORE
+.Rproj.user
+.Rhistory
+.RData
+results.log
+.DS_Store
+.tmp.RData
