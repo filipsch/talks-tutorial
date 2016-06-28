@@ -1,0 +1,16 @@
+---
+title: "My example"
+output: html_document
+---
+
+When you start R, `mtcars` is available. 
+
+Let's explore with `head()` and `tail()`.
+
+```{r}
+head(mtcars)
+tail(mtcars)
+```
+
+That's enough for now!
+
