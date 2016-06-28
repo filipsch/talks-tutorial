@@ -2,7 +2,7 @@
 Title: "Getting started with JSON and jsonlite"
 date: "`r Sys.Date()`"
 output:
-  rmarkdown::htmlhtml_document
+  rmarkdown::html_document
 vignette: >
   %\VignetteIndexEntry{Getting started with JSON and jsonlite}
   %\VignetteEngine{knitr::rmarkdown}
