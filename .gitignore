@@ -8,3 +8,5 @@ results.log
 .DS_Store
 .tmp.RData
 script.Rmd
+*.html
+!example_after.html
