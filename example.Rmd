@@ -3,6 +3,10 @@ title: "My example"
 output: html_document
 ---
 
+```{r include=FALSE}
+tutorial::go_interactive()
+```
+
 When you start R, `mtcars` is available. 
 
 Let's explore with `head()` and `tail()`.
