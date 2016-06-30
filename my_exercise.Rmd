@@ -3,6 +3,10 @@ title: "My exercise"
 output: html_document
 ---
 
+```{r include=FALSE}
+tutorial::go_interactive()
+```
+
 You can use `<-` for variable assignment. Try it yourself: create a variable `a`, that is equal to 5.
 
 ```{r ex="create_a", type="sample-code"}

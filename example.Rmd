@@ -17,4 +17,3 @@ tail(mtcars)
 ```
 
 That's enough for now!
-
