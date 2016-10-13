@@ -9,5 +9,4 @@ results.log
 .tmp.RData
 script.Rmd
 *.html
-!example_interactive.html
 !my_exercise.html
