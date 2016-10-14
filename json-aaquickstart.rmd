@@ -9,6 +9,10 @@ vignette: >
   \usepackage[utf8]{inputenc}
 ---
 
+```{r include=FALSE}
+tutorial::go_interactive()
+```
+
 ```{r echo=FALSE}
 library(knitr)
 opts_chunk$set(comment="")
